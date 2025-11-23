@@ -11,7 +11,7 @@ print("🔐 API Key Loaded:", groq_api_key)
 # Set up the LLM (LLaMA3 via Groq)
 llm = ChatGroq(
     groq_api_key=groq_api_key,
-    model_name="groq/llama3-8b-8192"  
+    model_name="groq/llama-3.1-8b-instant"  
 )
 
 
