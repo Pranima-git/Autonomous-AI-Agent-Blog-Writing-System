@@ -11,7 +11,7 @@ To show how multiple AI agents can work together in sequence to complete a task 
 - Python
 - [CrewAI](https://docs.crewai.com/)
 - [LangChain Groq](https://python.langchain.com/docs/integrations/llms/groq/)
-- LLaMA3-8B model via Groq
+- llama-3.1-8b-instant model via Groq
 - .env for API key handling
 - VS Code
 
