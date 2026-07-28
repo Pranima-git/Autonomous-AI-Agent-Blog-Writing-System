@@ -1,4 +1,4 @@
-# 🧠 AI Agent Blog Writing Project (CrewAI + LLaMA3)
+# 🧠 Multi-Agent Blog Writing System Project (CrewAI + LLaMA3)
 
 This project demonstrates the use of autonomous AI agents to collaboratively plan and write a blog post. It uses the [CrewAI](https://docs.crewai.com/) framework along with the LLaMA3 language model (via Groq) to simulate agent collaboration for content generation.
 
